@@ -1,7 +1,8 @@
 var configConstants = {
     auth0: {
-        domain: 'YOUR_AUTH0_DOMAIN_HERE',
-        clientId: 'YOUR_AUTH0_CLIENT_ID_HERE'
-    },
-    apiBaseUrl: 'YOUR_API_BASE_URL_HERE_NO_TRAILING_SLASH'
+        domain: 'serverlessplatform.auth0.com',
+        clientId: 'yv8-q1NtDkS14NZApGXYV8-S2bCeSxMZ'
+    }
+    apiBaseUrl: 'https://by8sfyjgzc.execute-api.us-east-1.amazonaws.com/Development'
+
 };
